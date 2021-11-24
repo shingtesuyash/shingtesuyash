@@ -19,6 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/shingtesuyash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shingtesuyash" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/suyash-shingte-1b69671ab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suyash-shingte-1b69671ab" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/17494614/suyash-shingte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17494614/suyash-shingte" height="30" width="40" /></a>
 <a href="https://fb.com/suyash shingte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="suyash shingte" height="30" width="40" /></a>
